@@ -21,3 +21,16 @@ Welcome to the GitHub repository of my Drug-Corner Clone built using HTML, CSS, 
 2:CSS: For styling the layout, colors, and typography.
 3:JavaScript: For interactive features and functionality.
 
+
+
+
+
+IMAGES
+
+file:///C:/Users/hp/OneDrive/Documents/1%20Image.jpg
+file:///C:/Users/hp/OneDrive/Documents/2%20Image.jpg
+file:///C:/Users/hp/OneDrive/Documents/3%20Image.jpg
+file:///C:/Users/hp/OneDrive/Documents/4%20Image.jpg
+file:///C:/Users/hp/OneDrive/Documents/5%20Image.jpg
+file:///C:/Users/hp/OneDrive/Documents/6%20Image.jpg
+
